@@ -41,7 +41,7 @@ This mirrors the kind of analytical work done on transaction monitoring teams at
 
 ## 📊 Analysis Dashboard
 
-![Analysis Dashboard](Analysis_dashboard.png)
+![Analysis Dashboard](Analysis_Dashboard.png)
 
 *Dashboard shows: transaction amount distributions, fraud rate by hour (late-night spike highlighted), top predictive features, confusion matrix, merchant category risk, and model scorecard.*
 
